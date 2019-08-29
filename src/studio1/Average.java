@@ -10,6 +10,5 @@ public class Average {
         double average = (double) (t1 + t2)/2;
         System.out.println("Average of " + t1 + " degrees and " + t2 + " degrees is " + average + ".");
 
-
     }
 }
