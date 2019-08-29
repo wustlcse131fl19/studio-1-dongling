@@ -9,6 +9,5 @@ public class Average {
         int t2 = ap.nextInt("What is the highest temperature today in integer?");
         double average = (double) (t1 + t2)/2;
         System.out.println("Average of " + t1 + " degrees and " + t2 + " degrees is " + average + ".");
-
     }
 }
